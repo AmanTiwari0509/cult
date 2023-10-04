@@ -1,4 +1,3 @@
-import React from "react";
 import CultLogo from "../assets/Images/CultLogo.png";
 import appstore from "../assets/Images/appstore.png";
 import googleplay from "../assets/Images/googleplay.png";

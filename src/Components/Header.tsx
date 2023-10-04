@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import CultLogo from "../assets/Images/CultLogo.png";
 import location from "../assets/Images/location.png";

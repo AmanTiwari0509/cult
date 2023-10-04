@@ -1,4 +1,4 @@
-import React from "react";
+
 import video1 from "../assets/Video/video1.mp4";
 
 const MainPage = () => {
