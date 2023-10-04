@@ -55,9 +55,9 @@ const Header = () => {
               Get App
             </button>
           </div>
-          <div className="text-[#ffffff] font-bold font-roboto ">
+          <div className="text-[#ffffff] font-roboto ">
             <p className="w-10 h-10 bg-purple-600 rounded-full">
-              <p className="flex items-center justify-center p-2">{"A"}</p>
+              <p className="flex items-center justify-center p-2 text-jg">{"A"}</p>
             </p>
           </div>
           <div className="hover:bg-gray-800 p-2 rounded-full">

@@ -13,7 +13,10 @@ import Footer from "../Components/Footer";
 const Layout = () => {
   return (
     <div>
-      <Header />
+      <div className="md:block hidden">
+        <Header />
+      </div>
+
       <Routes>
         <Route path="/" element={<MainPage />} />
       </Routes>

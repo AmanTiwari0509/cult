@@ -6,3 +6,8 @@
 .roboto{
   font-family: 'Roboto', sans-serif;
 }
+
+.active-link {
+  color: white; /* Set the color to white for active links */
+  /* Add any other styles you want for active links */
+}
